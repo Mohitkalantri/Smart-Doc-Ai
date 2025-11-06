@@ -17,8 +17,6 @@ Built with **FastAPI**, **EasyOCR**, and **Python**, this project demonstrates r
 
 ---
 
----
-
 ## 🧩 Project Structure
 
 ```
@@ -41,6 +39,8 @@ SmartDocAI/
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
 ```
+
+---
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
