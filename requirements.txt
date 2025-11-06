@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+easyocr
+pytesseract
+pillow
+torch
+transformers
+spacy
+numpy
+pdf2image
+pdfminer.six
+opencv-python
